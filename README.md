@@ -1,5 +1,5 @@
 # Ros
-Remonterande rosor - 5 favoriter
+Remonterande rosor - 2favoriter
 Med remonterande rosor menas att rosorna blommar flera gånger per säsong. Vi tipsar om fem av våra favoritsorter.
 <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b8744b5-5408-422b-9ef2-d2fdbfe41da4" />
 Astrid Lindgren ros
